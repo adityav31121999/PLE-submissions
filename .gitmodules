@@ -1,0 +1,6 @@
+[submodule "ple"]
+	path = ple
+	url = https://github.com/google-research/ple.git
+[submodule "submission-template"]
+	path = submission-template
+	url = https://github.com/physical-engineerings-last-exam/submission-template.git
